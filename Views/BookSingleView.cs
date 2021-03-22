@@ -2,6 +2,7 @@ using System;
 namespace BookMan.Views
 {
     using Models;
+    using Framework;
     internal class BookSingleView
     {
         protected Book Model; //Luu tru thong tin cuon sach can hien thi
@@ -22,12 +23,12 @@ namespace BookMan.Views
         {
             if (Model == null)
             {
-                WriteLine("NO BOOK FOUND, SORRY!!", ConsoleColor.Red);
+                ViewHelp.WriteLine("NO BOOK FOUND, SORRY!!", ConsoleColor.Red);
                 return;
             }
 
             Console.ForegroundColor = ConsoleColor.Cyan;
-            WriteLine("BOOK DETAIL INFORMATION: ", ConsoleColor.Cyan);
+            ViewHelp.WriteLine("BOOK DETAIL INFORMATION: ", ConsoleColor.Cyan);
             Console.ResetColor();
 
             Console.WriteLine($"Author: \t {Model.Authors}");
@@ -44,11 +45,5 @@ namespace BookMan.Views
             Console.WriteLine($"FileName: \t {Model.FileName}");
         }
 
-        protected void WriteLine(string mess, ConsoleColor color)
-        {
-            Console.ForegroundColor = color;
-            Console.WriteLine(mess);
-            Console.ResetColor();
-        }
     }
 }

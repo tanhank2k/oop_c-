@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\C#\\BookMan\\BookMan.csproj": {}
+    "D:\\C#\\BookMan\\BookMan.csproj": {}
   },
   "projects": {
-    "d:\\C#\\BookMan\\BookMan.csproj": {
+    "D:\\C#\\BookMan\\BookMan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\C#\\BookMan\\BookMan.csproj",
+        "projectUniqueName": "D:\\C#\\BookMan\\BookMan.csproj",
         "projectName": "BookMan",
-        "projectPath": "d:\\C#\\BookMan\\BookMan.csproj",
+        "projectPath": "D:\\C#\\BookMan\\BookMan.csproj",
         "packagesPath": "C:\\Users\\ThinkPro\\.nuget\\packages\\",
-        "outputPath": "d:\\C#\\BookMan\\obj\\",
+        "outputPath": "D:\\C#\\BookMan\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ThinkPro\\AppData\\Roaming\\NuGet\\NuGet.Config"

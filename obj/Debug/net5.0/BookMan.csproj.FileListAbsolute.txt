@@ -1,0 +1,16 @@
+D:\C#\BookMan\bin\Debug\net5.0\BookMan.exe
+D:\C#\BookMan\bin\Debug\net5.0\BookMan.deps.json
+D:\C#\BookMan\bin\Debug\net5.0\BookMan.runtimeconfig.json
+D:\C#\BookMan\bin\Debug\net5.0\BookMan.runtimeconfig.dev.json
+D:\C#\BookMan\bin\Debug\net5.0\BookMan.dll
+D:\C#\BookMan\bin\Debug\net5.0\ref\BookMan.dll
+D:\C#\BookMan\bin\Debug\net5.0\BookMan.pdb
+D:\C#\BookMan\obj\Debug\net5.0\BookMan.csprojAssemblyReference.cache
+D:\C#\BookMan\obj\Debug\net5.0\BookMan.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BookMan\obj\Debug\net5.0\BookMan.AssemblyInfoInputs.cache
+D:\C#\BookMan\obj\Debug\net5.0\BookMan.AssemblyInfo.cs
+D:\C#\BookMan\obj\Debug\net5.0\BookMan.csproj.CoreCompileInputs.cache
+D:\C#\BookMan\obj\Debug\net5.0\BookMan.dll
+D:\C#\BookMan\obj\Debug\net5.0\ref\BookMan.dll
+D:\C#\BookMan\obj\Debug\net5.0\BookMan.pdb
+D:\C#\BookMan\obj\Debug\net5.0\BookMan.genruntimeconfig.cache
